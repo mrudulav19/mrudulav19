@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · mrudulav19</sub></p>
 <h1>Mrudula V</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Full-stack engineer</h2>
 <p>Software Developer | Python | Django | FastAPI | Flask | PostgreSQL | React</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Chennai</sub></p>
@@ -28,7 +28,7 @@
 </tr>
 </table>
 
-<p><sub>Software Developer | Python | Django | FastAPI | Flask | PostgreSQL | React</sub></p>
+<p><sub>Software Developer | Python |.NET | Django | FastAPI | Flask | PostgreSQL | React</sub></p>
 
 <h2>Proof at a glance</h2>
 
